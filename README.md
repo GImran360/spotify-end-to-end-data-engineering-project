@@ -9,7 +9,7 @@
 ## 🎵 Spotify API Project 🎵
 
 This API provides comprehensive information about music artists, albums, and songs. 🎶✨ 
-![Spotify API](https://developer.spotify.com/documentation/web-api)
+![Spotify-API](https://developer.spotify.com/documentation)
 
 ## 🎯 Services Used
 
