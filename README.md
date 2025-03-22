@@ -36,4 +36,8 @@ Amazon Athena is an interactive SQL-based query service that enables analysis of
 pip instal pandas
 pip install numpy
 pip install spotift
-``` 
+```
+
+### Project Execution Flow
+
+Extract Data from API -> Lambda Trigger (every 1 hour) -> Run Extract Code -> Store Raw Data -> Trigger Transform Function -> Transfrom Data and Load It -> Query Using
