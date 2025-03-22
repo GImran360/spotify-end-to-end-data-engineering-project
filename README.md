@@ -8,9 +8,11 @@
 
 ## 🎵 Spotify API Project 🎵
 
-This API provides comprehensive information about music artists, albums, and songs. 🎶✨
+This API provides comprehensive information about music artists, albums, and songs. 🎶✨ 
+![Spotify API](https://developer.spotify.com/documentation/web-api)
 
 ## 🎯 Services Used
+
 1️⃣ S3 (Simple Storage Service) 🗄️📦
 Amazon S3 is a highly scalable object storage service that enables you to store and retrieve unlimited data from anywhere. It's widely used for storing large media files, backups, and static website content. 🌐📂
 
@@ -28,3 +30,10 @@ The AWS Glue Data Catalog is a metadata repository that simplifies data manageme
 
 6️⃣ Amazon Athena 🏹🔍
 Amazon Athena is an interactive SQL-based query service that enables analysis of data stored in Amazon S3. It processes large datasets efficiently, providing quick insights without requiring complex infrastructure. 📊🚀
+
+### Installed Packges 
+```
+pip instal pandas
+pip install numpy
+pip install spotift
+``` 
