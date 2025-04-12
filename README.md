@@ -4,12 +4,25 @@
 📊 In this project, we will retrieve data from the Spotify API, transform it into the desired format 🎵, and load it into the AWS data store ☁️. Using AWS services, we aim to drive data-driven business decisions 📈✨.
 
 ## high-level architecture
-![high-level architecture](https://github.com/GImran360/spotify-end-to-end-data-engineering-project/blob/main/Spotify%20data%20pipe%20line.jpg)
+![image](https://github.com/user-attachments/assets/25ac8585-65d2-4e61-a5be-844752826158)
 
 ## 🎵 Spotify API Project 🎵
 
 This API provides comprehensive information about music artists, albums, and songs. 🎶✨ 
-![Spotify-API](https://developer.spotify.com/documentation)
+https://developer.spotify.com/documentation
+
+# s3
+![image](https://github.com/user-attachments/assets/7f4c7790-9396-4b9e-a95a-cdbea19865c4)
+
+![image](https://github.com/user-attachments/assets/033e3112-fb08-45af-9524-b62545aa543e)
+
+![image](https://github.com/user-attachments/assets/0713d11d-e2e4-4d79-879d-0037481961cb)
+
+![image](https://github.com/user-attachments/assets/56632a0e-3f75-4163-bfd8-f2ad85b7c282)
+
+![image](https://github.com/user-attachments/assets/06f3ff9d-ab61-40b2-bf59-d03ca327405d)
+
+
 
 ## 🎯 Services Used
 
@@ -41,3 +54,10 @@ pip install spotift
 ### Project Execution Flow
 
 Extract Data from API -> Lambda Trigger (every 1 hour) -> Run Extract Code -> Store Raw Data -> Trigger Transform Function -> Transfrom Data and Load It -> Query Using
+
+
+🙌 Contact
+
+📧 Email: gandooriimran@gmail.com📱
+
+WhatsApp: +91 9381838092
